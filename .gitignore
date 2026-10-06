@@ -1,0 +1,25 @@
+# Data — never commit
+Data/
+data/
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.zip
+*.pkl
+*.feather
+*.h5
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
